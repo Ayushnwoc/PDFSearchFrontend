@@ -21,3 +21,7 @@ Link: [https://pdf-search-frontend-iy4u83uqv-ayush-kumars-projects-2f0428d9.verc
 ## Backend Github Repo
 
 Link: [https://github.com/Ayushnwoc/PDFSearchBackend]
+
+## Demo Video
+
+Link: [https://drive.google.com/file/d/1o-WAmw_5xyqvAo27OR-xU8tdjiK7XRrc/view?usp=sharing]
