@@ -8,11 +8,11 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Install all the required modules.\
+Install all the required modules.
 
 ### `npm run start`
 
-Runs the web application.\
+Runs the web application.
 
 ## Deployed Link
 
