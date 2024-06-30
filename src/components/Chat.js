@@ -62,7 +62,7 @@ const Chat = ({file}) => {
     }, [messages]);
 
     return (
-        <div className=" w-3/4 flex flex-col items-center mx-auto ">
+        <div className=" w-3/4 flex flex-col items-center mx-auto pt-[10vh]">
             {/* Chat messages container */}
             <div ref={chatContainerRef} className="w-full overflow-y-auto h-[75vh]  p-4" style={{ msOverflowStyle: 'none',scrollbarWidth: 'none', '::WebkitScrollbarr': {display: 'none'}}}>
                 {messages.map((message) => (
