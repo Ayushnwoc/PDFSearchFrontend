@@ -20,4 +20,4 @@ Link: [https://pdf-search-frontend-iy4u83uqv-ayush-kumars-projects-2f0428d9.verc
 
 ## Backend Github Repo
 
-Link: [https://github.com/Enlivensolutions/resolab-backend]
+Link: [https://github.com/Ayushnwoc/PDFSearchBackend]
