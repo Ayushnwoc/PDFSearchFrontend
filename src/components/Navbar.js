@@ -46,7 +46,7 @@ const Navbar = ({ onFileUpload }) => {
   };
 
   return (
-    <div className='flex justify-between items-center py-4 px-4 sm:px-8 shadow-md h-[10vh]'>
+    <div className='flex fixed justify-between items-center py-4 px-4 sm:px-8 shadow-md h-[10vh]'>
       <div>
         <img src={logo} alt="" />
       </div>
