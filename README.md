@@ -17,3 +17,7 @@ Runs the web application.
 ## Deployed Link
 
 Link: [https://pdf-search-frontend-iy4u83uqv-ayush-kumars-projects-2f0428d9.vercel.app/]
+
+## Backend Github Repo
+
+Link: [https://github.com/Enlivensolutions/resolab-backend]
