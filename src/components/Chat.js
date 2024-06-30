@@ -62,9 +62,9 @@ const Chat = ({file}) => {
     }, [messages]);
 
     return (
-        <div className=" w-3/4 flex flex-col items-center mx-auto pt-[10vh]">
+        <div className=" w-full flex flex-col items-center mx-auto pt-[10vh]">
             {/* Chat messages container */}
-            <div ref={chatContainerRef} className="w-full overflow-y-auto h-[75vh]  p-4" style={{ msOverflowStyle: 'none',scrollbarWidth: 'none', '::WebkitScrollbarr': {display: 'none'}}}>
+            <div ref={chatContainerRef} className="w-full sm:w-3/4 overflow-y-auto h-[75vh]  p-4" style={{ msOverflowStyle: 'none',scrollbarWidth: 'none', '::WebkitScrollbarr': {display: 'none'}}}>
                 {messages.map((message) => (
                     <div
                         key={message.id}
@@ -79,7 +79,7 @@ const Chat = ({file}) => {
             </div>
 
             {/* Input box at the bottom */}
-            <form onSubmit={handleMessageSubmit} className="w-full px-4 py-3 bg-white flex items-center border corder-gray-300 rounded-lg shadow-md">
+            <form onSubmit={handleMessageSubmit} className="w-3/4 px-4 py-3 bg-white flex items-center border corder-gray-300 rounded-lg shadow-md">
                 <input
                     type="text"
                     name="message"
